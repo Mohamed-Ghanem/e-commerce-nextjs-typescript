@@ -2,8 +2,6 @@
 
 This branch uses Typescript, Tailwind and the Next.js App Router
 
-This is a [Next.js](https://nextjs.org/) template project that's preconfigured to work with Replicate's API.
-
 ## Noteworthy files
 
 - [src/app/page.tsx](src/app/page.tsx) - The React frontend that renders the home page in the browser
