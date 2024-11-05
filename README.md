@@ -31,5 +31,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser.
 
-Prerequisite:
+## Prerequisite
+
 You must have node version > 18
